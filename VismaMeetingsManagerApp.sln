@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VismaMeetingsManagerApp", "VismaMeetingsManagerApp\VismaMeetingsManagerApp.csproj", "{9C3F8816-0DAA-4921-A064-74BA997597C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VismaMeetingsManagerAppTesting", "VismaMeetingsManagerAppTesting\VismaMeetingsManagerAppTesting.csproj", "{6EFD5460-6321-4863-BCCB-5BCA44BB6D7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3F8816-0DAA-4921-A064-74BA997597C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3F8816-0DAA-4921-A064-74BA997597C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3F8816-0DAA-4921-A064-74BA997597C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3F8816-0DAA-4921-A064-74BA997597C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFD5460-6321-4863-BCCB-5BCA44BB6D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFD5460-6321-4863-BCCB-5BCA44BB6D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFD5460-6321-4863-BCCB-5BCA44BB6D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFD5460-6321-4863-BCCB-5BCA44BB6D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF25ED1-8ADE-4FCD-9F42-8D0DE3EACC76}
+	EndGlobalSection
+EndGlobal

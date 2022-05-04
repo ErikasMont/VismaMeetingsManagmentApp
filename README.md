@@ -5,6 +5,7 @@
 You will need to install the following tools for the app to work:
 * .NET 6.0
 * VisualStudio 2022
+* xUnit (for testing project)
 
 ## How to launch the app
 
